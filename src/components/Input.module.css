@@ -1,0 +1,13 @@
+.form_control {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+
+}
+
+.form_control label {
+    color: #cccccc;
+    font-weight: 600;
+    cursor: pointer;
+    margin-left: 10px;
+}
