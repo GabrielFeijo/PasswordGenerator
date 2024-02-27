@@ -13,4 +13,4 @@
 4. Com todas as depedências baixadas e instaladas basta executar o comando [$ npm run dev]
 5. Resultado:
 
-![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1070000110718681088/passwordGenerator.png)
+![Projeto React](https://i.imgur.com/HTgHdMB.png)
